@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tingdong Chen
+- 👀 I’m interested in art and programming
+- 🌱 I’m currently learning Solidity, web3 and sculpturing.
+- 💞️ I’m looking for a full stack engineering job or working with an art agent, whichever comes first.
+- 📫 You can reach me at chentingdong@gmail.com
