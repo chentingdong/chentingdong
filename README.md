@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tingdong Chen
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Solidity, web3.
-- 💞️ I’m looking for a full stack engineering job.
+- 👀 I’m interested in ReactJs, NodeJs, Python, initiative work.
+- 🌱 I’m currently learning Solidity, Web3.
+- 💞️ I’m looking for a senior/staff engineering role.
 - 📫 You can reach me at chentingdong@gmail.com
